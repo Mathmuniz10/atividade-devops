@@ -19,3 +19,6 @@ Praticar o fluxo de trabalho utilizado em equipes de desenvolvimento, incluindo:
 ## Ferramentas Utilizadas
 - Git
 - GitHub
+
+- ## Atualização DevOps
+Alteração realizada na branch desenvolvedor para teste de Pull Request.
