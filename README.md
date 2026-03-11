@@ -13,8 +13,8 @@ Praticar o fluxo de trabalho utilizado em equipes de desenvolvimento, incluindo:
 - Merge
 
 ## Integrantes da Equipe
-- Matheus Muniz – Líder do Projeto
-- Nome do colega – Revisor de Qualidade
+- Stephanny Morais– Líder do Projeto
+- Matheus Muniz – Revisor de Qualidade
 
 ## Ferramentas Utilizadas
 - Git
